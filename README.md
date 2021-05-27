@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fy1337
+- 👋 Hi, I’m Chirag aka @fy1337.
 - 👀 I’m interested in Python,Java,Data Science.
 - 🌱 I’m currently learning Python and Data science.  
 - 💞️ I’m looking to collaborate on Python projects.
